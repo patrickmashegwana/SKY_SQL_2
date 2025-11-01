@@ -7,6 +7,19 @@ Analyze flight delays, search by airline, airport, or date, and visualize delaye
 
 ---
 
+## 🧠 Learn & Practice with Sky SQL 2
+
+Sky SQL 2 is more than just a command-line flight analyzer — it’s a great hands-on project to learn and practice real-world development skills:
+
+- ✈️ SQL & Databases: Explore how SQL queries are structured, parameterized, and safely executed using SQLAlchemy.
+- 💻 Python Programming: Work with modular Python code that follows PEP 8, uses type hints, and demonstrates clean error handling.
+- 🎨 Command-Line Interfaces (CLI): Experience designing an engaging, colorful ANSI-based CLI with an ASCII logo and user-friendly prompts.
+- 📊 Data Visualization: Generate real insights using Matplotlib, learning how to visualize and interpret patterns in flight delays.
+- 📂 Practical Data Workflow: Practice exporting real query results to CSV files, ready for further data analysis or reporting.
+
+This project provides the perfect balance of backend logic, data processing, and visual presentation — helping you become confident in combining Python, SQL, and visualization in a single workflow.
+
+---
 ## 🚀 Features
 
 - **Search Flights**
