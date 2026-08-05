@@ -59,8 +59,8 @@ Welcome to Sky SQL 2 - Your flight data analyzer!
 
 1. Clone the repository:
 ```Bash
-git clone https://github.com/abhisakh/sky_sql_2.git
-cd sky_sql_2
+git clone https://github.com/patrickmashegwana/SKY_SQL_2.git
+cd SKY_SQL_2
 
 ```
 2. Install dependencies:
@@ -105,7 +105,7 @@ MIT License © 2025
 ---
 
 ## 🙋‍♂️ Author
-**Abhisakh Sarma**
-GitHub: [https://github.com/abhisakh](https://github.com/abhisakh)
+**Patrick Mashegwana**
+GitHub: [https://github.com/patrickmashegwana](https://github.com/patrickmashegwana)
 
 _Contributions and feedback are always welcome!_
